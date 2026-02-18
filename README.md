@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Engineer with 5 years of experience at Siemens and a BSc in Computer Science.  <br>I build scalable backend systems, with a focus on API performance and clean architecture.<br><br>- Main stack: C# / .NET 8, plus Python (FastAPI) and Go<br>- Interests: web development, AI, scalability, automation<br>- Working style: strong documentation and tests-first<br>- I enjoy building products that have a real-world impact<br><br>Connect with me on LinkedIn: https://www.linkedin.com/in/bernardo-cardoso-4a21b9129/
+Born in 1994 in Lisbon, Portugal. After finishing my BSc in Computer Science I started working as an Trainee at Siemens. A year later got Internalized as a Backend Engineer and I have now 5 years of experience on the position.  <br>I build scalable backend systems, with a focus on API performance and clean architecture.<br><br>- Main stack: C# / .NET 8, plus Python (FastAPI) and Go<br>- Interests: web development, AI, scalability, automation<br>- Working style: strong documentation and tests-first<br>- I enjoy building products that have a real-world impact<br><br>Connect with me on LinkedIn: https://www.linkedin.com/in/bernardo-cardoso-4a21b9129/
 
 
 ## 🌐 Socials:
